@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+	assembly="Multisoft.old.DB" namespace="Multisoft.old.DB">
+
+  <class name="Empresa" table="empresa">
+    <id name="idEmpresa" column="cod" type="int">
+      <generator class="assigned"></generator>
+    </id>
+    <property name="nomefantasia" column="nomefantasia" type="String"></property>
+    <property name="razaosocial" column="razaosocial" type="String"></property>
+    <property name="cnpj" column="cnpj" type="String"></property>
+    <property name="ie" column="ie" type="String"></property>
+    <property name="uf" column="uf" type="String"></property>
+    <property name="endereco" column="endereco" type="String"></property>
+    <property name="cidade" column="cidade" type="String"></property>
+    <property name="numero" column="numero" type="String"></property>
+    <property name="bairro" column="bairro" type="String"></property>
+    <property name="complemento" column="complemento" type="String"></property>
+    <property name="cep" column="cep" type="String"></property>
+    <property name="responsavel" column="responsavel" type="String"></property>
+    <property name="telefone" column="telefone" type="String"></property>
+    <property name="fax" column="fax" type="String"></property>
+    
+  </class>
+  
+  <class name="LinhaMovMerc" table="mov_mercadoria" where="cod_caixa=1">
+    <id name="idMov" column="id" type="int">
+      <generator class="assigned"></generator>
+    </id>
+    <property name="nome_movimento" column="nome_movimento" type="String"></property>
+    <property name="data" column="data" type="DateTime"></property>
+    <property name="num_nota" column="num_nota" type="int"></property>
+    <property name="cancelado" column="cancelado" type="String"></property>
+    <property name="valor" column="valor" type="double"></property>
+    <property name="cfop" column="cfop" type="String"></property>
+    <property name="tipo_movimento" column="tipo_movimento" type="String"></property>
+    <property name="frete" column="frete" type="double"></property>
+    <property name="seguro" column="seguro" type="double"></property>
+    <property name="outras" column="outras" type="double"></property>
+    <property name="ipi" column="ipi" type="double"></property>
+
+    <bag name="itens" inverse="true" order-by="id_item" cascade="all" lazy="false">
+      <key column="id_movimento"/>
+      <one-to-many class="LinhaMovMercItem"/>
+    </bag>
+    <!-- many of ME can have one same THIS -->
+    <many-to-one name="cliente" column="cod_cliente" class="Cliente" />
+
+  </class>
+
+  <class name="Cliente" table="clientes">
+    <id name="idCliente" column="codigo" type="int">
+      <generator class="assigned"></generator>
+    </id>
+    <property name="pessoa" column="pessoa" type="String"></property>
+    <property name="rg" column="rg" type="String"></property>
+    <property name="cpf" column="cpf" type="String"></property>
+    <property name="estado" column="estado" type="String"></property>
+    
+  </class>
+
+  <class name="LinhaMovMercItem" table="mov_mercadoria_itens">
+    <id name="idItem" column="id_item" type="int">
+      <generator class="assigned"></generator>
+    </id>
+    <many-to-one name="dadosProduto" column="cod_produto" class="Produto"></many-to-one><!-- foreign-key="fk_produto1"-->
+    <many-to-one name="movimento" column="id_movimento" not-null="true"/><!-- foreign-key="fk_movimento1"-->
+    <property name="nome_movimento" column="nome_movimento" type="String"></property>
+    <property name="quantidade" column="quantidade" type="Double"></property>
+    <property name="precoU" column="preco" type="Double"></property>
+    <property name="total" column="total" type="Double"></property>
+    <property name="desconto" column="desconto" type="Double"></property>
+    <property name="qtd_devolvida" column="qtd_devolvida" type="Double"></property>
+    <property name="ipi_percent" column="ipi_percent" type="double"></property>
+    
+  </class>
+  
+  <class name="Produto" table="produto">
+    <id name="idProduto" column="codigo" type="int">
+      <generator class="assigned"></generator>
+    </id>
+    <property name="aliquota" column="alicota" type="Double"></property>
+    <property name="unidMed" column="unid_medida" type="String"></property>
+    <property name="cst_dentro_uf" column="cst_dentro_uf" type="String"></property>
+    <property name="cst_fora_uf" column="cst_fora_uf" type="String"></property>
+    <property name="redutor_dentro_uf" column="redutor_dentro_uf" type="Double"></property>
+    <property name="redutor_fora_uf" column="redutor_fora_uf" type="Double"></property>
+    <property name="servico" column="servico" type="String"></property>
+    <property name="ipi" column="ipi" type="Double"></property>
+    <property name="codigoOriginal" column="cod_original" type="String"></property>
+    <property name="nome" column="nome" type="String"></property>
+    <property name="p_venda" column="p_venda" type="Double"></property>
+
+  </class>
+  
+</hibernate-mapping>

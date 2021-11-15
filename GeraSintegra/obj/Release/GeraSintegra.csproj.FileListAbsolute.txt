@@ -1,0 +1,66 @@
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\obj\Release\GeraSintegra.csproj.GenerateResource.Cache
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\GeraSintegra.exe
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\GeraSintegra.pdb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\obj\Release\GeraSintegra.exe
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\obj\Release\GeraSintegra.pdb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\NHibernate.dll
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\Iesi.Collections.dll
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\log4net.dll
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\Castle.Core.dll
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\Castle.DynamicProxy2.dll
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\NHibernate.pdb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\NHibernate.xml
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\Iesi.Collections.pdb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\Iesi.Collections.xml
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\log4net.xml
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\Castle.Core.xml
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\Castle.DynamicProxy2.xml
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\obj\Release\Multisoft.SistemaSintegra.Properties.Resources.resources
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\obj\Release\Multisoft.SistemaSintegra.FormPrincipal.resources
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\Multisoft.old.DB.dll
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\Multisoft.old.DB.pdb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\hibernate\classes.hbm.xml
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\GeraSintegra\bin\Release\hibernate\hibernate.cfg.xml
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\obj\Release\GeraSintegra.exe
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\obj\Release\ResolveAssemblyReference.cache
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\obj\Release\Multisoft.SistemaSintegra.FormPrincipal.resources
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\obj\Release\Multisoft.SistemaSintegra.Properties.Resources.resources
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\obj\Release\GeraSintegra.csproj.GenerateResource.Cache
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\bin\Release\hibernate\classes.hbm.xml
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\bin\Release\hibernate\hibernate.cfg.xml
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\bin\Release\GeraSintegra.exe
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\bin\Release\GeraSintegra.pdb
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\bin\Release\Multisoft.old.DB.dll
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\bin\Release\NHibernate.dll
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\bin\Release\Castle.DynamicProxy2.dll
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\bin\Release\Castle.Core.dll
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\bin\Release\log4net.dll
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\bin\Release\Iesi.Collections.dll
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\bin\Release\Multisoft.old.DB.pdb
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\GeraSintegra\obj\Release\GeraSintegra.pdb
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\obj\Release\GeraSintegra.exe
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\obj\Release\GeraSintegra.pdb
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\obj\Release\ResolveAssemblyReference.cache
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\obj\Release\Multisoft.SistemaSintegra.FormPrincipal.resources
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\obj\Release\Multisoft.SistemaSintegra.Properties.Resources.resources
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\obj\Release\GeraSintegra.csproj.GenerateResource.Cache
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\bin\Release\hibernate\classes.hbm.xml
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\bin\Release\hibernate\hibernate.cfg.xml
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\bin\Release\GeraSintegra.exe
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\bin\Release\GeraSintegra.pdb
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\bin\Release\Multisoft.old.DB.dll
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\bin\Release\NHibernate.dll
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\bin\Release\Castle.DynamicProxy2.dll
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\bin\Release\Castle.Core.dll
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\bin\Release\log4net.dll
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\bin\Release\Iesi.Collections.dll
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\GeraSintegra\bin\Release\Multisoft.old.DB.pdb
+C:\dev\GeraSintegra 2009 JAN\GeraSintegra\obj\Release\GeraSintegra.exe
+C:\dev\GeraSintegra 2009 JAN\GeraSintegra\obj\Release\GeraSintegra.pdb
+C:\dev\GeraSintegra 2009 JAN\GeraSintegra\obj\Release\ResolveAssemblyReference.cache
+C:\dev\GeraSintegra 2009 JAN\GeraSintegra\obj\Release\Multisoft.SistemaSintegra.FormPrincipal.resources
+C:\dev\GeraSintegra 2009 JAN\GeraSintegra\obj\Release\Multisoft.SistemaSintegra.Properties.Resources.resources
+C:\dev\GeraSintegra 2009 JAN\GeraSintegra\obj\Release\GeraSintegra.csproj.GenerateResource.Cache

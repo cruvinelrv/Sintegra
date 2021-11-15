@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2EB72BD2-81CD-4AF1-95DD-D1F5B849C44D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Multisoft.SistemaSintegra</RootNamespace>
+    <AssemblyName>GeraSintegra</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>sint.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FirebirdSql.Data.FirebirdClient, Version=2.1.0.0, Culture=neutral, PublicKeyToken=3750abcc3150b00c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\bin\dll\FirebirdSql.Data.FirebirdClient.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=2.0.0.3001, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\bin\dll\nHibernate\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Code\classes-colaboradoras\InvocarBemafi32.cs" />
+    <Compile Include="Code\classes-construtores\ConstrutorTipo10.cs" />
+    <Compile Include="Code\classes-construtores\ConstrutorTipo11.cs" />
+    <Compile Include="Code\classes-construtores\ConstrutorTipo50.cs" />
+    <Compile Include="Code\classes-construtores\ConstrutorTipo51.cs" />
+    <Compile Include="Code\classes-construtores\ConstrutorTipo53.cs" />
+    <Compile Include="Code\classes-construtores\ConstrutorTipo54.cs" />
+    <Compile Include="Code\classes-construtores\ConstrutorTipo55.cs" />
+    <Compile Include="Code\classes-construtores\ConstrutorTipo56.cs" />
+    <Compile Include="Code\classes-construtores\ConstrutorTipo60.cs" />
+    <Compile Include="Code\classes-construtores\ConstrutorTipos90.cs" />
+    <Compile Include="Code\classes-construtores\ConstrutorTipo75.cs" />
+    <Compile Include="Code\classes-principais\Tipo75.cs" />
+    <Compile Include="Code\classes-principais\Tipo60.cs" />
+    <Compile Include="Code\classes-principais\Tipo56.cs" />
+    <Compile Include="Code\classes-principais\Tipo55.cs" />
+    <Compile Include="Code\classes-principais\Tipo54.cs" />
+    <Compile Include="Code\EnumSoftware.cs" />
+    <Compile Include="Code\interfaces\IConstrutorTipo.cs" />
+    <Compile Include="Code\classes-principais\ArquivoMagnetico.cs" />
+    <Compile Include="Code\interfaces\IArquivoMagnetico.cs" />
+    <Compile Include="Code\classes-principais\Tipo53.cs" />
+    <Compile Include="Code\classes-principais\Tipo51.cs" />
+    <Compile Include="Code\classes-principais\Tipo10.cs" />
+    <Compile Include="Code\classes-principais\Tipo11.cs" />
+    <Compile Include="Code\classes-principais\Tipo50.cs" />
+    <Compile Include="Code\classes-colaboradoras\Functions.cs" />
+    <Compile Include="Code\classes-colaboradoras\InscrEstadual.cs" />
+    <Compile Include="Code\classes-principais\Tipo90.cs" />
+    <Compile Include="Code\abstratas\Tipo.cs" />
+    <Compile Include="Code\classes-principais\Campo.cs" />
+    <Compile Include="Code\classes-colaboradoras\Exceçoes.cs" />
+    <Compile Include="Code\classes-colaboradoras\Enumeradores.cs" />
+    <Compile Include="Code\transformador\Transformador.cs" />
+    <Compile Include="Forms\FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\topo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Multisoft.old.DB\Multisoft.old.DB.csproj">
+      <Project>{DF15EF73-A4F5-41F7-BC01-98492579B93F}</Project>
+      <Name>Multisoft.old.DB</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading-big.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sint.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

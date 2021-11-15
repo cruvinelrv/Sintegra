@@ -1,0 +1,59 @@
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\Multisoft.old.DB.dll
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\Multisoft.old.DB.pdb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\obj\Release\Multisoft.old.DB.dll
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\obj\Release\Multisoft.old.DB.pdb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\NHibernate.dll
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\Iesi.Collections.dll
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\log4net.dll
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\Castle.Core.dll
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\Castle.DynamicProxy2.dll
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\NHibernate.pdb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\NHibernate.xml
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\Iesi.Collections.pdb
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\Iesi.Collections.xml
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\log4net.xml
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\Castle.Core.xml
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\Castle.DynamicProxy2.xml
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\hibernate\classes.hbm.xml
+C:\Documents and Settings\Thiago\Meus documentos\Visual Studio 2008\Projects\forms\GeraSintegra\Multisoft.old.DB\bin\Release\hibernate\hibernate.cfg.xml
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\Multisoft.old.DB\obj\Release\ResolveAssemblyReference.cache
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\Multisoft.old.DB\bin\Release\hibernate\classes.hbm.xml
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\Multisoft.old.DB\bin\Release\hibernate\hibernate.cfg.xml
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\Multisoft.old.DB\bin\Release\Multisoft.old.DB.dll
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\Multisoft.old.DB\bin\Release\Multisoft.old.DB.pdb
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\Multisoft.old.DB\bin\Release\NHibernate.dll
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\Multisoft.old.DB\bin\Release\Iesi.Collections.dll
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\Multisoft.old.DB\bin\Release\log4net.dll
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\Multisoft.old.DB\bin\Release\Castle.Core.dll
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\Multisoft.old.DB\bin\Release\Castle.DynamicProxy2.dll
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\Multisoft.old.DB\obj\Release\Multisoft.old.DB.dll
+F:\sistemadaempresa\fontes\SIntegra\GeraSintegra 2008 09 08\Multisoft.old.DB\obj\Release\Multisoft.old.DB.pdb
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\hibernate\classes.hbm.xml
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\hibernate\hibernate.cfg.xml
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\Multisoft.old.DB.dll
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\Multisoft.old.DB.pdb
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\NHibernate.dll
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\Iesi.Collections.dll
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\log4net.dll
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\Castle.Core.dll
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\Castle.DynamicProxy2.dll
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\Multisoft.old.DB\obj\Release\ResolveAssemblyReference.cache
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\Multisoft.old.DB\obj\Release\Multisoft.old.DB.dll
+F:\sistemadaempresa\fontes que nao fazem backup\fonte_SIntegra\GeraSintegra 2009 JAN\Multisoft.old.DB\obj\Release\Multisoft.old.DB.pdb
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\hibernate\classes.hbm.xml
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\hibernate\hibernate.cfg.xml
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\Multisoft.old.DB.dll
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\Multisoft.old.DB.pdb
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\Iesi.Collections.dll
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\log4net.dll
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\Castle.Core.dll
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\Castle.DynamicProxy2.dll
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\NHibernate.xml
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\Iesi.Collections.xml
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\log4net.xml
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\Castle.Core.xml
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\bin\Release\Castle.DynamicProxy2.xml
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\obj\Release\ResolveAssemblyReference.cache
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\obj\Release\Multisoft.old.DB.dll
+C:\dev\GeraSintegra 2009 JAN\Multisoft.old.DB\obj\Release\Multisoft.old.DB.pdb

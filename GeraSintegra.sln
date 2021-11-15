@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeraSintegra", "GeraSintegra\GeraSintegra.csproj", "{2EB72BD2-81CD-4AF1-95DD-D1F5B849C44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multisoft.old.DB", "Multisoft.old.DB\Multisoft.old.DB.csproj", "{DF15EF73-A4F5-41F7-BC01-98492579B93F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB72BD2-81CD-4AF1-95DD-D1F5B849C44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB72BD2-81CD-4AF1-95DD-D1F5B849C44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB72BD2-81CD-4AF1-95DD-D1F5B849C44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB72BD2-81CD-4AF1-95DD-D1F5B849C44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF15EF73-A4F5-41F7-BC01-98492579B93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF15EF73-A4F5-41F7-BC01-98492579B93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF15EF73-A4F5-41F7-BC01-98492579B93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF15EF73-A4F5-41F7-BC01-98492579B93F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
